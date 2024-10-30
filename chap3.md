@@ -1,4 +1,4 @@
-# 🖼️ Semantic Segmentation and Image Clustering in Computer Vision
+# 🖼️ Semantic Segmentation - I and Image Clustering in Computer Vision
 
 ## 1. Semantic Segmentation
 
